@@ -89,22 +89,12 @@ DAX was used to create analytical measures, rankings, percentage calculations an
 
 ## 📂 Repository Structure
 
-```text
-India-EV-Market-Intelligence/
+India-EV-Market-Intelligence-Analysis/
 │
-├── India_EV_Market_Intelligence.pbix
-├── README.md
-│
+├── Dataset/
 ├── Screenshots/
-│   ├── EV_Market_Overview.png
-│   ├── Registration_Trends.png
-│   ├── Manufacturer_Performance.png
-│   ├── Charging_Infrastructure.png
-│   └── EV_Market_Insights.png
-│
-└── Dataset/
-    └── Source datasets (where redistribution is permitted)
-```
+├── India_EV_Market_Intelligence_Main.pbix
+└── README.md
 
 ## ⚠️ Data Limitations
 
