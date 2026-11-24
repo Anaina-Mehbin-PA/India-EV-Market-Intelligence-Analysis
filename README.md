@@ -90,14 +90,23 @@ DAX was used to create analytical measures, rankings, percentage calculations an
 ## 📂 Repository Structure
 
 India-EV-Market-Intelligence-Analysis/
+
 │
+
 ├── Dataset/
+
 ├── Screenshots/
+
 ├── India_EV_Market_Intelligence_Main.pbix
+
 └── README.md
 
 ## ⚠️ Data Limitations
 
 The EV registration dataset used in this project contains records only up to **August 2024**. Therefore, the registration analysis represents the available dataset period and should not be interpreted as current 2026 market statistics.
+
+## 👩‍💻 Author
+
+Anaina Mehbin P A
 
 
