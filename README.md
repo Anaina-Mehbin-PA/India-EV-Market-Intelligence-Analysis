@@ -72,6 +72,21 @@ DAX was used to create analytical measures, rankings, percentage calculations an
 
 <img width="1201" height="677" alt="EV_Market_Overview" src="https://github.com/user-attachments/assets/8882d567-bfdc-4edf-8627-9c0fbe69dd74" />
 
+2. EV Registration Trends
+
+<img width="1197" height="671" alt="Registration_Trends" src="https://github.com/user-attachments/assets/61d9833d-bd9c-4445-992c-b578f4051241" />
+
+3. Manufacturer Performance
+
+<img width="1197" height="670" alt="Manufacturer_Performance" src="https://github.com/user-attachments/assets/2f66fbd9-4e53-44b1-984c-9ead86e2eb72" />
+
+4. Charging Infrastructure
+
+<img width="1197" height="668" alt="Charging_Infrastructure" src="https://github.com/user-attachments/assets/0bcf60c0-881d-4f9a-a307-af757242e785" />
+
+5. EV Market Insights
+
+<img width="1202" height="672" alt="EV_Market_Insights" src="https://github.com/user-attachments/assets/a0a46d71-b7a6-4537-b144-2da56358401b" />
 
 ## 📂 Repository Structure
 
