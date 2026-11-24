@@ -34,7 +34,6 @@ The report consists of five main analytical pages and a dedicated manufacturer d
 | Manufacturer Performance Analysis | Manufacturer comparisons and Top/Bottom rankings |
 | Charging Infrastructure & State Analysis | State-wise charging infrastructure analysis |
 | EV Market Insights | Vehicle segment comparisons and key findings |
-| Manufacturer Drill-through | Detailed manufacturer-level analysis |
 
 ## 🔍 Key Features
 
