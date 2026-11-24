@@ -68,7 +68,10 @@ DAX was used to create analytical measures, rankings, percentage calculations an
 
 ## 📷 Dashboard Preview
 
-*Screenshots of the report pages will be added here.*
+1. EV Market Overview
+
+<img width="1201" height="677" alt="EV_Market_Overview" src="https://github.com/user-attachments/assets/8882d567-bfdc-4edf-8627-9c0fbe69dd74" />
+
 
 ## 📂 Repository Structure
 
